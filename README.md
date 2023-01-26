@@ -4,4 +4,4 @@
 
 
 <h3> Dataset </h4>
-<b> The dataset is taken from the Aid Worker Security Database (https://aidworkersecurity.org/). </b>
+<b> The dataset is taken from the Aid Worker Security Database (https://aidworkersecurity.org/) which includes data starting from 1997 to the present. </b>
